@@ -2,7 +2,6 @@
 Anaconda Python3.6+OpenCV+PyQt で作った GUI ツールを exe化するサンプル  
   
 $ pip install --upgrade cx_Freeze  
-
 $ python setup.py build  
   
 そのままでは動かないので、詳細は以下  
